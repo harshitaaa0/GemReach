@@ -60,8 +60,8 @@ Follow these steps to run GemReach locally:
 
 **1. Clone the repository** 
 ```
-git clone https://github.com/your-username/gemreach.git
-cd gemreach
+git clone https://github.com/your-username/GemReach.git
+cd GemReach
 ```
 
 **2. Create a virtual environment (recommended)**
